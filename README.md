@@ -205,3 +205,7 @@ Spätere Mini-Shop-Beispiele: **neue Produkte** fragt veröffentlichte Produkte 
 Erstellungsdatum ab; **passende Produkte** bezieht den aktuellen Produktkontext ein
 und gibt nur sichtbare, kaufbare passende Produkte zurück. Beide Quellen werden
 hier nur dokumentiert; das Bundle enthält keine Shop-Anbindung und kein Product-Markup.
+
+## Fehler und Wünsche
+
+Bitte als Issue in [studio-nordwerk/contao-pakete](https://github.com/studio-nordwerk/contao-pakete/issues) melden. Der Quellcode auf GitHub ist ein schreibgeschützter Spiegel; entwickelt wird das Paket intern bei Studio Nordwerk, Pull Requests dort werden nicht übernommen.
